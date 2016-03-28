@@ -1,7 +1,7 @@
 # test
-just a test
+learn about comments
 
-I made this as a test repository
+
 
 //comment
 
